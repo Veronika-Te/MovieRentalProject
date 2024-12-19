@@ -1,0 +1,4 @@
+#Example environment variables for the app
+
+PORT=8000
+JWT_SECRET_KEY="your-secret-key-here"
